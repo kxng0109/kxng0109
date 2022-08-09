@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joshua.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning ReactJS.
-- 🧠 I know HTML, CSS, JavaScript and TailwindCss.
-- 💞️ I’m looking to collaborate on frontend development.
+- 🧠 I know HTML, CSS, JavaScript, TypeScript and TailwindCss.
+- 💞️ I’m looking to collaborate on frontend development projects.
 - 📫 Feel free to send an email to me at iluhjosh13@gmail.com
 - 👨🏾‍💻 Working on a project that I hope will be released soon.
