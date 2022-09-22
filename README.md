@@ -33,8 +33,4 @@
 
 - I also have some knowledge on creating chrome extensions.
 
-- 📫 Feel free to send an email to me at iluhjosh13@gmail.com
-
-### Activity Trends
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kxng0109&theme=dracula&hide_border=true) -->
+- 📫 Feel free to send an email to me at <a href="malto:iluhjosh13@gmail.com">iluhjosh13@gmal.com</a>
