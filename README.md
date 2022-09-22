@@ -4,4 +4,3 @@
 - 🧠 I know HTML, CSS, JavaScript, TypeScript and TailwindCss.
 - 💞️ I’m looking to collaborate on frontend development projects.
 - 📫 Feel free to send an email to me at iluhjosh13@gmail.com
-- 👨🏾‍💻 Working on a project that I hope will be released soon.
