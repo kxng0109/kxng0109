@@ -37,4 +37,4 @@
 
 ### Activity Trends
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kxng0109&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kxng0109&theme=dracula&hide_border=true) -->
