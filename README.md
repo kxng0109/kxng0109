@@ -1,4 +1,4 @@
-<h2>👋 Hi, my name is Joshua😁😁.</h2>
+<h2>👋 Hi, my name is Joshua😁😁</h2>
 
 <p> 👀 I am a frontend web developer.<p>
 
