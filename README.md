@@ -1,12 +1,12 @@
 <h2>👋 Hi, my name is Joshua😁😁</h2>
 
-<p> 👀 I am a frontend web developer.<p>
+<p> 👀 I am a backend developer.<p>
 
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxng0109)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3>Languages and Softwares</h3>
+<!-- <h3>Languages and Softwares</h3>
 <section>
    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge&logoWidth=20" alt="Html5 logo">
    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge&logoWidth=20" alt="CSS3 logo">
@@ -19,7 +19,7 @@
    <img src="https://img.shields.io/badge/-github-181717?logo=github&logoColor=white&style=for-the-badge&logoWidth=20" alt="GitHub logo">
    <img src="https://img.shields.io/badge/-sublime%20text-FF9800?logo=sublimetext&logoColor=white&style=for-the-badge&logoWidth=20" alt="Sublime Text logo">
    <img src="https://img.shields.io/badge/-c-FF9800?logo=c&logoColor=white&style=for-the-badge&logoWidth=20" alt="Sublime Text logo">
-</section>
+</section> -->
 
 ### Github stats
 
@@ -28,9 +28,5 @@
 ### GitHub Streak
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kxng0109&theme=highcontrast&hide_border=true" alt="Joshua's github streaks" />
-
-- 💞️ I’m looking to collaborate with on frontend development projects.
-
-- I also have some knowledge on creating chrome extensions.
 
 - 📫 Feel free to send an email to me at <a href="malto:iluhjosh13@gmail.com">iluhjosh13@gmail.com</a>
