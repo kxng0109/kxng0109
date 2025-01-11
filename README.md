@@ -2,11 +2,11 @@
 
 <p> 👀 I am a backend developer.<p>
 
-### Top Languages
+<!-- ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxng0109)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <h3>Languages and Softwares</h3>
+<h3>Languages and Softwares</h3>
 <section>
    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge&logoWidth=20" alt="Html5 logo">
    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge&logoWidth=20" alt="CSS3 logo">
