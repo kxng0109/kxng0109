@@ -23,10 +23,10 @@
 
 ### Github stats
 
-![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxng0109&show_icons=true&theme=merko) -->
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=kxng0109&show_icons=true&theme=merko)
 
 ### GitHub Streak
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kxng0109&theme=highcontrast&hide_border=true" alt="Joshua's github streaks" />
 
-<!-- - 📫 Feel free to send an email to me at <a href="malto:iluhjosh13@gmail.com">iluhjosh13@gmail.com</a> -->
+📫 Feel free to send an email to me at <a href="malto:iluhjosh13@gmail.com">iluhjosh13@gmail.com</a> -->
