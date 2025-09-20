@@ -1,6 +1,6 @@
 <h2>👋 Hi, my name is Joshua😁😁</h2>
 
-<p> 👀 I am a backend developer. Using Node.js (Express.js and NestJS) and Python (Django).<p>
+<p> 👀 I am a backend developer. Using Node.js (Express.js and NestJS), Java (Spring Boot) and Python (Django).<p>
 
 <p>I think I'm meant to say something interesting, but I can't think of any. 😅</p>
 
